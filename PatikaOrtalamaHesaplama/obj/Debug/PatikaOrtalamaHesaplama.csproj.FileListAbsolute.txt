@@ -1,0 +1,19 @@
+C:\Users\casper\Desktop\BilgeAdamEğitim\02_VS Çalışmalar\05_Ağustos\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\bin\Debug\PatikaOrtalamaHesaplama.exe.config
+C:\Users\casper\Desktop\BilgeAdamEğitim\02_VS Çalışmalar\05_Ağustos\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\bin\Debug\PatikaOrtalamaHesaplama.exe
+C:\Users\casper\Desktop\BilgeAdamEğitim\02_VS Çalışmalar\05_Ağustos\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\bin\Debug\PatikaOrtalamaHesaplama.pdb
+C:\Users\casper\Desktop\BilgeAdamEğitim\02_VS Çalışmalar\05_Ağustos\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\BilgeAdamEğitim\02_VS Çalışmalar\05_Ağustos\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\BilgeAdamEğitim\02_VS Çalışmalar\05_Ağustos\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\BilgeAdamEğitim\02_VS Çalışmalar\05_Ağustos\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.exe
+C:\Users\casper\Desktop\BilgeAdamEğitim\02_VS Çalışmalar\05_Ağustos\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.pdb
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\bin\Debug\PatikaOrtalamaHesaplama.exe.config
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\bin\Debug\PatikaOrtalamaHesaplama.exe
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\bin\Debug\PatikaOrtalamaHesaplama.pdb
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.Form1.resources
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.exe
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.pdb
+C:\Users\casper\Desktop\Patika\C#\PatikaOrtalamaHesaplama\PatikaOrtalamaHesaplama\obj\Debug\PatikaOrtalamaHesaplama.Properties.Resources.resources
